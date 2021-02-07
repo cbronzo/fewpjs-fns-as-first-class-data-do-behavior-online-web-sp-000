@@ -11,7 +11,9 @@ function handleClick(e) {
 
 /* Write your implementation of greet() */
 
-function greet(time)
+function greet(time) {
+  
+}
 
 
 /* Write your implementation of displayMessage() */
